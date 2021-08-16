@@ -6,15 +6,11 @@ This is a weather app that uses a local weather api to display the current tempe
 
 ## Preview
 
-The following images show the coding quiz apperance.
-
-![Main Screen of Weather App](img/weatherapp.png)
-![Weather in Miami](img/miamiweather.png)
-
+The following images show the app appearance. 
 ## Deployment
 
-The quiz can be found at:
-https://sad-brahmagupta-83fa13.netlify.app/
+The app can be found at:
+https://confident-lichterman-3fc627.netlify.app/
 
 ## Technologies Used
 
@@ -22,6 +18,7 @@ HTML5
 CSS
 JavaScript
 Open Weather API
+React
 
 ## Contact Information
 
