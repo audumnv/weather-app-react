@@ -70,7 +70,7 @@ function Weather() {
         </div>
         <small>
           <a
-            href="https://github.com/audumnv/weather-app"
+            href="https://github.com/audumnv/weather-app-react"
             target="_blank"
             rel="noreferrer"
           >
