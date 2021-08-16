@@ -13,8 +13,8 @@ The following images show the coding quiz apperance.
 
 ## Deployment
 
-The quiz can be found at:
-https://sad-brahmagupta-83fa13.netlify.app/
+The app can be found at:
+https://confident-lichterman-3fc627.netlify.app/
 
 ## Technologies Used
 
@@ -22,6 +22,7 @@ HTML5
 CSS
 JavaScript
 Open Weather API
+React
 
 ## Contact Information
 
