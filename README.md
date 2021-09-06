@@ -6,7 +6,8 @@ This is a weather app that uses a local weather api to display the current tempe
 
 ## Preview
 
-The following images show the app appearance. 
+The following images show the app appearance.
+
 ## Deployment
 
 The app can be found at:
