@@ -11,7 +11,6 @@ The following images show the app appearance.
 ## Deployment
 
 The app can be found at:
-https://confident-lichterman-3fc627.netlify.app/
 
 ## Technologies Used
 
